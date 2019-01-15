@@ -1,2 +1,3 @@
 # Snake-Game
-Snake game for windows written in c++
+A simple Snake game for windows written in c++.
+Snake is controlled using the arrow keys.
